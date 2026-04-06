@@ -1,5 +1,6 @@
+import { getRandomQuote } from "./quotes.js";
 // TODO 1: Import and Create express app instance
-Import express from "express";
+import express from "express";
 const app = express();
 
 // TODO 1: Define server port
